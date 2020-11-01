@@ -58,11 +58,11 @@ public class Weather {
         this.temperature = temperature;
     }
 
-    public Date getData() {
+    public Date getDate() {
         return date;
     }
 
-    public void setData(Date date) {
+    public void setDate(Date date) {
         this.date = date;
     }
 }
